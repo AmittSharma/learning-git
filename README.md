@@ -1,2 +1,2 @@
 # learning-git
-Learning basic git workflow
+Learning basic git and github!
